@@ -116,6 +116,10 @@ body {
 	border-radius: 0;
 }
 
+h3 {
+	font-size: 18px;
+}
+
 .nav-pills .nav-link {
 	color: #000
 }
@@ -207,6 +211,10 @@ body {
 	flex-direction: column;
 	justify-content: space-between;
 	z-index: 1;
+}
+
+.service h3 {
+	font-size: 23px;
 }
 
 #contact {
