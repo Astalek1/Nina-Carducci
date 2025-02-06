@@ -96,10 +96,6 @@ body {
 	font-size: 14px;
 }
 
-#gallery {
-	/*	min-height: 100vh; */
-}
-
 img {
 	width: 100%;
 	/* or max-width: 100%; */
