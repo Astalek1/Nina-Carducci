@@ -113,7 +113,7 @@ img {
 
 .nav-pills .nav-link.active,
 .nav-pills .show>.nav-link {
-	color: #fff;
+	color: fff;
 	background-color: #BEB45A;
 	border-radius: 0;
 }
@@ -145,7 +145,6 @@ h3 {
 	height: 100%;
 	object-fit: cover;
 	padding: .5em;
-
 }
 
 .mg-prev,
