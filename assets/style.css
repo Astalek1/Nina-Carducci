@@ -74,6 +74,8 @@ img {
 	height: 100%;
 }
 
+
+
 .picture img {
 	width: 100%;
 
@@ -87,6 +89,7 @@ img {
 	margin-top: 1em;
 	margin-bottom: 60px;
 	font-size: 30px;
+
 }
 
 .about-me__introduction {
@@ -94,6 +97,7 @@ img {
 	font-weight: 800;
 	font-style: italic;
 	width: 60%;
+
 }
 
 #about-me p {
