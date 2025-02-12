@@ -15,7 +15,7 @@
 
       $(this)
         .children(".gallery-item")
-        .each(function (index) { //index inutile?
+        .each(function () { //index inutile?
           $.fn.mauGallery.methods.responsiveImageItem($(this));
           $.fn.mauGallery.methods.moveItemInRowWrapper($(this));
           $.fn.mauGallery.methods.wrapItemInColumn($(this), options.columns);
