@@ -97,10 +97,11 @@ img {
 
 .about-me__introduction {
 	font-family: 'Spectral';
-	font-weight: 800;
+	font-weight: 900;
 	font-style: italic;
-	width: 60%;
-
+	width: 60% !important;
+	font-size: 17px !important;
+	margin-bottom: 10px;
 }
 
 #about-me p {
